@@ -1,0 +1,15 @@
+ul{
+    font-size: 20px;
+}
+.insta img {
+    width: 84%;
+    height: auto;
+    margin-left: 5px;
+}
+.insta:hover {
+    color: lightsteelblue;
+  }
+.mapFormat{
+    padding-top:25px;
+    height: 50%;
+}
